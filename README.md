@@ -14,4 +14,13 @@
 
 <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="600">
 
+<br><br>
+
+`cs @ vit '26` &nbsp; // &nbsp; `ai & data engineering`
+
+<br>
+
+building agentic workflows (langgraph, crewai) and secure systems. <br>
+probably tweaking my ghostty config or playing nfs mw right now.
+
 </div>
